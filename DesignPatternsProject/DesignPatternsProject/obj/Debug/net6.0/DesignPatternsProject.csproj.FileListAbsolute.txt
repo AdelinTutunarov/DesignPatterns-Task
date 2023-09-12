@@ -1,0 +1,15 @@
+C:\Users\Adelin\Desktop\DesignPatterns\DesignPatternsProject\DesignPatternsProject\bin\Debug\net6.0\DesignPatternsProject.exe
+C:\Users\Adelin\Desktop\DesignPatterns\DesignPatternsProject\DesignPatternsProject\bin\Debug\net6.0\DesignPatternsProject.deps.json
+C:\Users\Adelin\Desktop\DesignPatterns\DesignPatternsProject\DesignPatternsProject\bin\Debug\net6.0\DesignPatternsProject.runtimeconfig.json
+C:\Users\Adelin\Desktop\DesignPatterns\DesignPatternsProject\DesignPatternsProject\bin\Debug\net6.0\DesignPatternsProject.dll
+C:\Users\Adelin\Desktop\DesignPatterns\DesignPatternsProject\DesignPatternsProject\bin\Debug\net6.0\DesignPatternsProject.pdb
+C:\Users\Adelin\Desktop\DesignPatterns\DesignPatternsProject\DesignPatternsProject\obj\Debug\net6.0\DesignPatternsProject.csproj.AssemblyReference.cache
+C:\Users\Adelin\Desktop\DesignPatterns\DesignPatternsProject\DesignPatternsProject\obj\Debug\net6.0\DesignPatternsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adelin\Desktop\DesignPatterns\DesignPatternsProject\DesignPatternsProject\obj\Debug\net6.0\DesignPatternsProject.AssemblyInfoInputs.cache
+C:\Users\Adelin\Desktop\DesignPatterns\DesignPatternsProject\DesignPatternsProject\obj\Debug\net6.0\DesignPatternsProject.AssemblyInfo.cs
+C:\Users\Adelin\Desktop\DesignPatterns\DesignPatternsProject\DesignPatternsProject\obj\Debug\net6.0\DesignPatternsProject.csproj.CoreCompileInputs.cache
+C:\Users\Adelin\Desktop\DesignPatterns\DesignPatternsProject\DesignPatternsProject\obj\Debug\net6.0\DesignPatternsProject.dll
+C:\Users\Adelin\Desktop\DesignPatterns\DesignPatternsProject\DesignPatternsProject\obj\Debug\net6.0\refint\DesignPatternsProject.dll
+C:\Users\Adelin\Desktop\DesignPatterns\DesignPatternsProject\DesignPatternsProject\obj\Debug\net6.0\DesignPatternsProject.pdb
+C:\Users\Adelin\Desktop\DesignPatterns\DesignPatternsProject\DesignPatternsProject\obj\Debug\net6.0\DesignPatternsProject.genruntimeconfig.cache
+C:\Users\Adelin\Desktop\DesignPatterns\DesignPatternsProject\DesignPatternsProject\obj\Debug\net6.0\ref\DesignPatternsProject.dll
